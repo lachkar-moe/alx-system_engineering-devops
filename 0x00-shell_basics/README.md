@@ -9,3 +9,4 @@ mv = move or rename a file
 rm = remove a file
 rm -r = remove a directory
 cd - = change to the previous directory
+ls -al . .. /boot = lists content of all the directories specified in long format
