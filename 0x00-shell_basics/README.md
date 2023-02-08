@@ -8,3 +8,4 @@ mkdir = make a new directory
 mv = move or rename a file
 rm = remove a file
 rm -r = remove a directory
+cd - = change to the previous directory
