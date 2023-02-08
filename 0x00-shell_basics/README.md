@@ -3,3 +3,4 @@ ls = list file content
 cd ~ = change working directory to the user's home directory
 ls -l = list content in long format
 ls -al = list hidden files in long format
+ls -lan = list content of directory in long format and additional info
