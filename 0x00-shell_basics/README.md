@@ -13,4 +13,5 @@ ls -al . .. /boot = lists content of all the directories specified in long forma
 file = prints the type of the file
 ln -s = create a symbolic link
 cp -un *.html = copy all new files of a current nature (html)
-mv [[:upper:]]* = move all files starting with an uppercase 
+mv [[:upper:]]* = move all files starting with an uppercase
+rm *~ = remove all files ending with ~ 
