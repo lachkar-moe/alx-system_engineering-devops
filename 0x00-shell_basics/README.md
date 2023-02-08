@@ -14,4 +14,5 @@ file = prints the type of the file
 ln -s = create a symbolic link
 cp -un *.html = copy all new files of a current nature (html)
 mv [[:upper:]]* = move all files starting with an uppercase
-rm *~ = remove all files ending with ~ 
+rm *~ = remove all files ending with ~
+mkdir -p = create a tree of directories  
