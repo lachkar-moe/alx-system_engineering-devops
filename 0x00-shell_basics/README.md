@@ -7,3 +7,4 @@ ls -lan = list content of directory in long format and additional info
 mkdir = make a new directory
 mv = move or rename a file
 rm = remove a file
+rm -r = remove a directory
