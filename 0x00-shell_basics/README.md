@@ -6,3 +6,4 @@ ls -al = list hidden files in long format
 ls -lan = list content of directory in long format and additional info 
 mkdir = make a new directory
 mv = move or rename a file
+rm = remove a file
