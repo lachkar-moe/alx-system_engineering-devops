@@ -12,4 +12,5 @@ cd - = change to the previous directory
 ls -al . .. /boot = lists content of all the directories specified in long format
 file = prints the type of the file
 ln -s = create a symbolic link
-cp -un *.html = copy all new files of a current nature (html) 
+cp -un *.html = copy all new files of a current nature (html)
+mv [[:upper:]]* = move all files starting with an uppercase 
