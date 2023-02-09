@@ -15,5 +15,6 @@ chmod -R +X = change permission to all subdirectories
 mkdir -m = make new directory and assign its permission 
 chgrp = change group owner of a file 
 chown user:group * = change owner and group to all files and dirs inside 
-chown -h = change ownership of a symbolic link 
+chown -h = change ownership of a symbolic link
+chown --from= =change owner only if its owned by the specified owner
 
