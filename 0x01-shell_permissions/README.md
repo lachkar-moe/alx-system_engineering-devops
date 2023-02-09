@@ -12,4 +12,5 @@ chmod 007 = only others are granted all the permissions
 chomd 753 = give all permission to the owner, r and x to the group and w x to others
 chmod --reference = copy permission of another file
 chmod -R +X = change permission to all subdirectories
+mkdir -m = make new directory and assign its permission 
 
