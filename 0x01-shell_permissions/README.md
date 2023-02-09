@@ -8,4 +8,5 @@ touch = create an empty file
 chmod u+x = give execution permission to the owner of the file\n
 chmod ug+x, o+r = give the owner and the group owner permission to execute a file
 chmod ugo+x = give everyone the permission to execute a file
+chmod 007 = only others are granted all the permissions
 
