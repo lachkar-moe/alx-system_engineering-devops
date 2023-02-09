@@ -14,4 +14,5 @@ chmod --reference = copy permission of another file
 chmod -R +X = change permission to all subdirectories
 mkdir -m = make new directory and assign its permission 
 chgrp = change group owner of a file 
+chown user:group * = change owner and group to all files and dirs inside 
 
