@@ -9,4 +9,5 @@
 -tail -n 1 < file >> file = duplicate the last line 
 -find type f -name *js -delete = delete all .js files 
 - sort | uniq -u = print unique words
+-grep = search for a specific pattern
 
