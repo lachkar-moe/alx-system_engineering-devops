@@ -5,4 +5,5 @@
 -tail = display last 10 lines of a file
 -head = display first 10 lines of a file
 -head -3 | tail -1 = display 3rd line 
+- ls -la > file = writes the result of a command into a file 
 
