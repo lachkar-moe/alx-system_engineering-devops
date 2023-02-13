@@ -10,4 +10,5 @@
 -find type f -name *js -delete = delete all .js files 
 - sort | uniq -u = print unique words
 -grep = search for a specific pattern
-
+-grep -v = search for line that do not contain a specific pattern
+-
