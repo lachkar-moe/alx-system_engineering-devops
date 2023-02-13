@@ -1,0 +1,4 @@
+	SHELL REDIRECTION 
+
+-echo = prints 
+
