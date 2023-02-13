@@ -8,4 +8,4 @@
 - ls -la > file = writes the result of a command into a file 
 -tail -n 1 < file >> file = duplicate the last line 
 -find type f -name *js -delete = delete all .js files 
--
+
